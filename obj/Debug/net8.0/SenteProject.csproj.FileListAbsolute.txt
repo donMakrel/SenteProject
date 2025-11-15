@@ -1,0 +1,17 @@
+C:\Users\macie\source\repos\DbMetaTool\SenteProject\bin\Debug\net8.0\SenteProject.exe
+C:\Users\macie\source\repos\DbMetaTool\SenteProject\bin\Debug\net8.0\SenteProject.deps.json
+C:\Users\macie\source\repos\DbMetaTool\SenteProject\bin\Debug\net8.0\SenteProject.runtimeconfig.json
+C:\Users\macie\source\repos\DbMetaTool\SenteProject\bin\Debug\net8.0\SenteProject.dll
+C:\Users\macie\source\repos\DbMetaTool\SenteProject\bin\Debug\net8.0\SenteProject.pdb
+C:\Users\macie\source\repos\DbMetaTool\SenteProject\bin\Debug\net8.0\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\macie\source\repos\DbMetaTool\SenteProject\obj\Debug\net8.0\SenteProject.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\DbMetaTool\SenteProject\obj\Debug\net8.0\SenteProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\DbMetaTool\SenteProject\obj\Debug\net8.0\SenteProject.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\DbMetaTool\SenteProject\obj\Debug\net8.0\SenteProject.AssemblyInfo.cs
+C:\Users\macie\source\repos\DbMetaTool\SenteProject\obj\Debug\net8.0\SenteProject.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\DbMetaTool\SenteProject\obj\Debug\net8.0\SentePro.1CFA69F3.Up2Date
+C:\Users\macie\source\repos\DbMetaTool\SenteProject\obj\Debug\net8.0\SenteProject.dll
+C:\Users\macie\source\repos\DbMetaTool\SenteProject\obj\Debug\net8.0\refint\SenteProject.dll
+C:\Users\macie\source\repos\DbMetaTool\SenteProject\obj\Debug\net8.0\SenteProject.pdb
+C:\Users\macie\source\repos\DbMetaTool\SenteProject\obj\Debug\net8.0\SenteProject.genruntimeconfig.cache
+C:\Users\macie\source\repos\DbMetaTool\SenteProject\obj\Debug\net8.0\ref\SenteProject.dll
